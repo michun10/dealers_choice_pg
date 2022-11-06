@@ -1,0 +1,44 @@
+header {
+    background-color: black;
+    height: 120px;
+    margin: 10px;
+    width: 98%;
+    display: flex;
+    color: white;
+    font-size: x-large;
+    font-family: Helvetica;
+    padding: 10px;
+    align-items: center;
+}
+
+img {
+    height: 120px;
+    padding-right: 60px;
+}
+
+.player-details {
+    color: white;
+    font-family: Helvetica;
+    font-size: 3rem;
+    margin: 30px;
+}
+
+button {
+    height: 60px;
+    width: 120px;
+    font-size: 2rem;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+li {
+    height: 60px;
+    list-style-type: none;
+}
+
+body {
+    background-color: black;
+}
